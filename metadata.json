@@ -1,0 +1,7 @@
+{
+  "name": "Ai Professional Techinical Assistant",
+  "description": "An advanced AI-driven IT support platform specializing in software troubleshooting, file analysis, and deep-level laptop motherboard hardware diagnostics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
